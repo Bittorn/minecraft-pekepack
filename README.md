@@ -17,9 +17,9 @@
  hal4 - Secret Earth by Voyage Futur
  nuance1 -
  nuance2 -
- piano1 - Life as a Flower by Vincent Diamante
- piano2 -
- piano3 -
+ piano1 - The Melting by Gavin Greenaway
+ piano2 - The Sun Rose by Gavin Greenaway
+ piano3 - We Travelled Far by Gavin Greenaway
 
  axolotl -
  dragon_fish -
