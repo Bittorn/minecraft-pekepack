@@ -15,8 +15,8 @@
  hal2 - Echo Shore by Voyage Futur
  hal3 - Lunar Mare by Voyage Futur
  hal4 - Secret Earth by Voyage Futur
- nuance1 -
- nuance2 -
+ nuance1 - Nascence by Austin Wintory
+ nuance2 - Apotheosis by Austin Wintory
  piano1 - The Melting by Gavin Greenaway
  piano2 - The Sun Rose by Gavin Greenaway
  piano3 - We Travelled Far by Gavin Greenaway
