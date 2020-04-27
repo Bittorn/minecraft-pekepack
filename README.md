@@ -1,5 +1,6 @@
 # jan Peke Resource Pack
  Custom resource pack for me lmao please subscribe
+ Icon is from Bloom Into You Vol. 1
 
 # Music changed
  calm1 - At Lotus Mountain by Voyage Futur
