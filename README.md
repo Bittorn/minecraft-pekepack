@@ -83,5 +83,6 @@
  credits - Flowers -Le Volume Sur Été- BGM ~ Fille solitaire
 
 # Issues
- naunce1, nuance2 and boss don't fit the atmosphere of the rest of the pack/n
+ naunce1, nuance2 and boss don't fit the atmosphere of the rest of the pack
+ 
  nether1 has sudden swells that can be startling
