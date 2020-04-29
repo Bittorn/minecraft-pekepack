@@ -30,9 +30,9 @@
  
  hal4 - Secret Earth by Voyage Futur
  
- nuance1 - Nascence by Austin Wintory
+ nuance1 - Ear Dreamin' by Yoshiaki Ochi
  
- nuance2 - Apotheosis by Austin Wintory
+ nuance2 - See The Light (Abridged) by Fumio Miyashita
  
  piano1 - The Melting by Gavin Greenaway
  
