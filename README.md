@@ -50,7 +50,7 @@
  
  
 
- nether1 - Addictive Yearning by Deru
+ nether1 - The Future Never Comes by Deru
  
  nether2 - Black Beach (Tape Version) by Deru
  
@@ -61,8 +61,6 @@
  nether5 - Pathologically Bored (Remix) by Deru
  
  nether6 - Midnight In The Garden With Ghosts by Deru
- 
- nether7 - The Future Never Comes by Deru
  
  
 
@@ -84,5 +82,3 @@
 
 # Issues
  naunce1, nuance2 and boss don't fit the atmosphere of the rest of the pack
- 
- nether1 has sudden swells that can be startling
