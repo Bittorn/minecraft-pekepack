@@ -42,11 +42,11 @@
  
  
 
- axolotl - Unchanged
+ axolotl - needs changing
  
- dragon_fish - Unchanged
+ dragon_fish - needs changing
  
- shuniji - Unchanged
+ shuniji - needs changing
  
  
 
@@ -79,6 +79,3 @@
  menu4 - Flowers -Le Volume Sur Été- BGM ~ Yokan
  
  credits - Flowers -Le Volume Sur Été- BGM ~ Fille solitaire
-
-# Issues
- naunce1, nuance2 and boss don't fit the atmosphere of the rest of the pack
