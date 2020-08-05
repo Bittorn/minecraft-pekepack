@@ -42,15 +42,14 @@
  - *boss* - Old Site (Black Moonrise Mix) by Ben Prunty
  - *end* - Dark Torvus Bog from Metroid Prime 2 OST
 
- - *menu1* - Flowers -Le Volume Sur Été- BGM ~ chaleur (violin arrange)
- - *menu2* - Flowers -Le Volume Sur Été- BGM ~ Enigme
- - *menu3* - Flowers -Le Volume Sur Été- BGM ~ Erika
- - *menu4* - Flowers -Le Volume Sur Été- BGM ~ Yokan
- - *credits* - Flowers -Le Volume Sur Été- BGM ~ Fille solitaire
+ * *menu1* - Flowers -Le Volume Sur Été- BGM ~ chaleur (violin arrange)
+ * *menu2* - Flowers -Le Volume Sur Été- BGM ~ Enigme
+ * *menu3* - Flowers -Le Volume Sur Été- BGM ~ Erika
+ * *menu4* - Flowers -Le Volume Sur Été- BGM ~ Yokan
+ * *credits* - Flowers -Le Volume Sur Été- BGM ~ Fille solitaire
 
 ## Textures
 
  Netherite tools and armor *"inspired"* by [Ph1LzA](https://www.youtube.com/Ph1LzA)
- ![Netherite tools and armor](https://preview.redd.it/b11offqsoed51.png?width=1081&format=png&auto=webp&s=cca499c4562c5af874dd611dd23d32486c3a9185)
 
  [Source](https://www.reddit.com/r/Philza/comments/hysj9f/ph1lzas_netherite/)
