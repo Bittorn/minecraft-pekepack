@@ -6,11 +6,11 @@
 
 ## Changes
 * [Music](#music)
- * [Creative](#creative)
- * [Water](#water)
- * [Nether](#nether)
- * [End](#end)
- * [Menu](#menu)
+  * [Creative](#creative)
+  * [Water](#water)
+  * [Nether](#nether)
+  * [End](#end)
+  * [Menu](#menu)
 * [Textures](#textures)
 
 ### Music
