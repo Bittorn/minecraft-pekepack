@@ -1,8 +1,6 @@
 # jan Peke Resource Pack
  Custom resource pack for [**me**](https://www.youtube.com/bittorn)
  <br>*It is recommended to set volume of music to 50% for optimal listening experience*
- 
- Icon is from [Bloom Into You Vol. 1](https://myanimelist.net/manga/88660/Yagate_Kimi_ni_Naru)
 
 ## Changes
 * [Music](#music)
