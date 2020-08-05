@@ -27,20 +27,19 @@
  * *piano2* - The Sun Rose by Gavin Greenaway
  * *piano3* - We Travelled Far by Gavin Greenaway
 
- * *axolotl* - **DISABLED**
- * *dragon_fish* - **DISABLED**
- * *shuniji* - **DISABLED**
+ - *axolotl* - **DISABLED**
+ - *dragon_fish* - **DISABLED**
+ - *shuniji* - **DISABLED**
  
  * *nether1* - The Future Never Comes by Deru
  * *nether2* - Black Beach (Tape Version) by Deru
  * *nether3* - Black Beach (Tape Version Remix) by Deru
  * *nether4* - Midnight In The Garden With Ghosts (Remix) by Deru
  * *nether5* - Pathologically Bored (Remix) by Deru
- * *nether6* - Midnight In The Garden With Ghosts by Deru
- <br>**(Nether music added in 1.16 has not been changed as of 5 August 2020)**
+ * *nether6* - Midnight In The Garden With Ghosts by Deru<br>**(Nether music added in 1.16 has not been changed as of 5 August 2020)**
 
- * *boss* - Old Site (Black Moonrise Mix) by Ben Prunty
- * *end* - Dark Torvus Bog from Metroid Prime 2 OST
+ - *boss* - Old Site (Black Moonrise Mix) by Ben Prunty
+ - *end* - Dark Torvus Bog from Metroid Prime 2 OST
 
  * *menu1* - Flowers -Le Volume Sur Été- BGM ~ chaleur (violin arrange)
  * *menu2* - Flowers -Le Volume Sur Été- BGM ~ Enigme
