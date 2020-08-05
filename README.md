@@ -36,7 +36,8 @@
  * *nether3* - Black Beach (Tape Version Remix) by Deru
  * *nether4* - Midnight In The Garden With Ghosts (Remix) by Deru
  * *nether5* - Pathologically Bored (Remix) by Deru
- * *nether6* - Midnight In The Garden With Ghosts by Deru<br>**(Nether music added in 1.16 has not been changed as of 5 August 2020)**
+ * *nether6* - Midnight In The Garden With Ghosts by Deru
+ <br>**(Nether music added in 1.16 has not been changed as of 5 August 2020)**
 
  - *boss* - Old Site (Black Moonrise Mix) by Ben Prunty
  - *end* - Dark Torvus Bog from Metroid Prime 2 OST
@@ -50,5 +51,4 @@
 ### Textures
 
  Netherite tools and armor *"inspired"* by [Ph1LzA](https://www.youtube.com/Ph1LzA)
-
- [Source](https://www.reddit.com/r/Philza/comments/hysj9f/ph1lzas_netherite/)
+ <br>[Source](https://www.reddit.com/r/Philza/comments/hysj9f/ph1lzas_netherite/)
