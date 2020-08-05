@@ -1,3 +1,5 @@
 {
-    "music.game.water": {"replace":true}
+    "music.nether.nether_wastes": {"sounds": [{"volume": 1}]},
+    "music.nether.soul_sand_valley": {"sounds": [{"volume": 1}]},
+    "music.nether.crimson_forest": {"sounds": [{"volume": 1}]}
 }
