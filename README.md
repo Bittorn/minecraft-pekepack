@@ -1,13 +1,14 @@
 ![Logo](jan%20Peke%20Resource%20Pack/pack.png)
 # jan Peke Resource Pack
- Custom resource pack for [**me**](https://www.youtube.com/bittorn)
- <br>*It is recommended to set volume of music to 50% for optimal listening experience*
+ Custom resource pack for [**me**](https://www.youtube.com/bittorn).
+ <br>*It is recommended to set volume of music to 50% for optimal listening experience.*
  
  **These features require Optifine to work:**
  * Dark loading screen
  * Custom sky textures
  * Biome-based mob textures
  * Enchantment-based book textures
+ * Texture variations
 
 ## Changes
 * [Music](#music)
@@ -17,8 +18,6 @@
   * [End](#end)
   * [Menu](#menu)
 * [Textures](#textures)
-  * [GUI](#gui)
-  * [In-game](#in-game)
 * [Credits](#credits)
 
 ### Music
@@ -71,14 +70,6 @@
   * *menu4* - Flowers -Le Volume Sur Été- BGM ~ Yokan
 
 ### Textures
-
- #### GUI
- New dark loading screen and dark default UI.
-
- Hearts have been changed to pink, and the hunger bar has been changed to bread.
- <br>Detail has also been added to the armor bar, and the absorption bar has been made shinier.
-
- #### In-game
  New diamond-infused netherite tools and armor.
 
  Mob textures are now based on the biome in which they are in.
@@ -86,18 +77,26 @@
  <br>New sun and moon textures.
 
  Rain/snow density has been lowered.
+ <br>New overworld and nether foliage variations.
+ <br>New ore texture variations.
+ <br>New coarse/podzol texture variations.
 
  New custom sky textures.
+
+ New dark loading screen and dark default UI.
+
+ Hearts have been changed to pink, and the hunger bar has been changed to bread.
+ <br>Detail has also been added to the armor bar, and the absorption bar has been made shinier.
 
 ### Credits
  Netherite tools and armor "inspired" by [Ph1LzA](https://www.youtube.com/Ph1LzA)
  <br>[Credit to *River (u/ilikeass21)* for the textures](https://www.reddit.com/r/Philza/comments/hysj9f/ph1lzas_netherite/)
 
- Credit to *bettervanillabuilding* for [BetterVanillaBuilding](https://www.curseforge.com/minecraft/texture-packs/bettervanillabuilding)
+ Credit to *bettervanillabuilding* ([BetterVanillaBuilding](https://www.curseforge.com/minecraft/texture-packs/bettervanillabuilding)) for biome-based mob textures, enchantment-based book textures & new sun/moon textures.
 
- Credit to *TrrigST* for [Stay True](https://www.curseforge.com/minecraft/texture-packs/stay-true)
+ Credit to *TrrigST* ([Stay True](https://www.curseforge.com/minecraft/texture-packs/stay-true)) for rain/snow density changes & texture variations.
 
- Credit to *the [Dokucraft: The Saga Continues](https://dokucraft.co.uk/) team* for the custom sky textures
+ Credit to *the [Dokucraft: The Saga Continues](https://dokucraft.co.uk/) team* for custom sky textures
 
- Credits to *nebulr* for [Default Dark Mode](https://www.curseforge.com/minecraft/texture-packs/default-dark-mode) and *Neecko5b84* for [Dark Loading Screen](https://www.curseforge.com/minecraft/texture-packs/dark-loading-screen)
- <br>Credit to *catsounds_* for [Pink Hearts and Bread](https://www.curseforge.com/minecraft/texture-packs/pink-hearts-and-bread)
+ Credits to *nebulr* ([Default Dark Mode](https://www.curseforge.com/minecraft/texture-packs/default-dark-mode)) for dark default GUI and *Neecko5b84* ([Dark Loading Screen](https://www.curseforge.com/minecraft/texture-packs/dark-loading-screen)) for dark loading screen.
+ <br>Credit to *catsounds_* ([Pink Hearts and Bread](https://www.curseforge.com/minecraft/texture-packs/pink-hearts-and-bread)) for new survival GUI icons.
