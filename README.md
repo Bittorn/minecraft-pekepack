@@ -11,6 +11,9 @@
   * [End](#end)
   * [Menu](#menu)
 * [Textures](#textures)
+  * [GUI](#gui)
+  * [In-game](#in-game)
+* [Credits](#credits)
 
 ### Music
  * *calm1* - At Lotus Mountain by Voyage Futur
@@ -63,5 +66,22 @@
 
 ### Textures
 
- Netherite tools and armor *"inspired"* by [Ph1LzA](https://www.youtube.com/Ph1LzA)
- <br>[Source](https://www.reddit.com/r/Philza/comments/hysj9f/ph1lzas_netherite/)
+ #### GUI
+ New dark loading screen and dark default UI.
+ ![Dark loading screen in 1.16](https://media.forgecdn.net/attachments/301/143/dark_loading_screen_1_16-1.png)
+ ![Dark survival inventory](https://media.forgecdn.net/attachments/266/685/3c58c3855a2403d6.png)
+
+ Hearts have been changed to pink, and the hunger bar has been changed to bread.
+ <br>Detail has also been added to the armor bar, and the absorption bar has been made shinier.
+ ![Survival GUI changes](https://media.forgecdn.net/attachments/303/775/showcase.png)
+
+ #### In-game
+ New diamond-infused netherite tools and armor.
+ ![Netherite tools and armor](https://preview.redd.it/b11offqsoed51.png?width=1081&format=png&auto=webp&s=cca499c4562c5af874dd611dd23d32486c3a9185)
+
+### Credits
+ Netherite tools and armor "inspired" by [Ph1LzA](https://www.youtube.com/Ph1LzA)
+ <br>[Credit to *River (u/ilikeass21)* for the textures](https://www.reddit.com/r/Philza/comments/hysj9f/ph1lzas_netherite/)
+
+ Credits to *nebulr* for [Default Dark Mode](https://www.curseforge.com/minecraft/texture-packs/default-dark-mode) and *Neecko5b84* for [Dark Loading Screen](https://www.curseforge.com/minecraft/texture-packs/dark-loading-screen)
+ <br>Credit to *catsounds_* for [Pink Hearts and Bread](https://www.curseforge.com/minecraft/texture-packs/pink-hearts-and-bread)
