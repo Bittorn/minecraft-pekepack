@@ -67,17 +67,12 @@
 ### Textures
 
  #### GUI
- New dark loading screen and dark default UI.
- ![Dark loading screen in 1.16](https://media.forgecdn.net/attachments/301/143/dark_loading_screen_1_16-1.png)
- ![Dark survival inventory](https://media.forgecdn.net/attachments/266/685/3c58c3855a2403d6.png)
-
- Hearts have been changed to pink, and the hunger bar has been changed to bread.
- <br>Detail has also been added to the armor bar, and the absorption bar has been made shinier.
- <img src="https://media.forgecdn.net/attachments/303/775/showcase.png">
+ * New dark loading screen and dark default UI.
+ * Hearts have been changed to pink, and the hunger bar has been changed to bread.
+ * Detail has also been added to the armor bar, and the absorption bar has been made shinier.
 
  #### In-game
- New diamond-infused netherite tools and armor.
- <img src="https://preview.redd.it/b11offqsoed51.png?width=1081&format=png&auto=webp&s=cca499c4562c5af874dd611dd23d32486c3a9185">
+ * New diamond-infused netherite tools and armor.
 
 ### Credits
  Netherite tools and armor "inspired" by [Ph1LzA](https://www.youtube.com/Ph1LzA)
