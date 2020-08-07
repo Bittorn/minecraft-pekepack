@@ -6,6 +6,8 @@
  **These features require Optifine to work:**
  * Dark loading screen
  * Custom sky textures
+ * Biome-based mob textures
+ * Enchantment-based book textures
 
 ## Changes
 * [Music](#music)
@@ -81,11 +83,16 @@
  
  New custom sky textures.
 
+ Mob textures is now based on the biome in which they are in.
+ <br>Enchanted books now have custom textures based on enchantment
+
 ### Credits
  Netherite tools and armor "inspired" by [Ph1LzA](https://www.youtube.com/Ph1LzA)
  <br>[Credit to *River (u/ilikeass21)* for the textures](https://www.reddit.com/r/Philza/comments/hysj9f/ph1lzas_netherite/)
 
- Credit to the [Dokucraft: The Saga Continues](https://dokucraft.co.uk/) team for the custom sky textures
+ Credit to *bettervanillabuilding* for [BetterVanillaBuilding](https://www.curseforge.com/minecraft/texture-packs/bettervanillabuilding)
+
+ Credit to *the [Dokucraft: The Saga Continues](https://dokucraft.co.uk/) team* for the custom sky textures
 
  Credits to *nebulr* for [Default Dark Mode](https://www.curseforge.com/minecraft/texture-packs/default-dark-mode) and *Neecko5b84* for [Dark Loading Screen](https://www.curseforge.com/minecraft/texture-packs/dark-loading-screen)
  <br>Credit to *catsounds_* for [Pink Hearts and Bread](https://www.curseforge.com/minecraft/texture-packs/pink-hearts-and-bread)
