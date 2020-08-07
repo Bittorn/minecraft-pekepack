@@ -80,17 +80,22 @@
 
  #### In-game
  New diamond-infused netherite tools and armor.
- 
- New custom sky textures.
 
- Mob textures is now based on the biome in which they are in.
- <br>Enchanted books now have custom textures based on enchantment
+ Mob textures are now based on the biome in which they are in.
+ <br>Enchanted books now have custom textures based on enchantment.
+ <br>New sun and moon textures.
+
+ Rain/snow density has been lowered.
+
+ New custom sky textures.
 
 ### Credits
  Netherite tools and armor "inspired" by [Ph1LzA](https://www.youtube.com/Ph1LzA)
  <br>[Credit to *River (u/ilikeass21)* for the textures](https://www.reddit.com/r/Philza/comments/hysj9f/ph1lzas_netherite/)
 
  Credit to *bettervanillabuilding* for [BetterVanillaBuilding](https://www.curseforge.com/minecraft/texture-packs/bettervanillabuilding)
+
+ Credit to *TrrigST* for [Stay True](https://www.curseforge.com/minecraft/texture-packs/stay-true)
 
  Credit to *the [Dokucraft: The Saga Continues](https://dokucraft.co.uk/) team* for the custom sky textures
 
