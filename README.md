@@ -2,6 +2,10 @@
 # jan Peke Resource Pack
  Custom resource pack for [**me**](https://www.youtube.com/bittorn)
  <br>*It is recommended to set volume of music to 50% for optimal listening experience*
+ 
+ **These features require Optifine to work:**
+ * Dark loading screen
+ * Custom sky textures
 
 ## Changes
 * [Music](#music)
@@ -68,16 +72,20 @@
 
  #### GUI
  New dark loading screen and dark default UI.
- 
+
  Hearts have been changed to pink, and the hunger bar has been changed to bread.
  <br>Detail has also been added to the armor bar, and the absorption bar has been made shinier.
 
  #### In-game
  New diamond-infused netherite tools and armor.
+ 
+ New custom sky textures.
 
 ### Credits
  Netherite tools and armor "inspired" by [Ph1LzA](https://www.youtube.com/Ph1LzA)
  <br>[Credit to *River (u/ilikeass21)* for the textures](https://www.reddit.com/r/Philza/comments/hysj9f/ph1lzas_netherite/)
+
+ Credit to the [Dokucraft: The Saga Continues](https://dokucraft.co.uk/) team for the custom sky textures
 
  Credits to *nebulr* for [Default Dark Mode](https://www.curseforge.com/minecraft/texture-packs/default-dark-mode) and *Neecko5b84* for [Dark Loading Screen](https://www.curseforge.com/minecraft/texture-packs/dark-loading-screen)
  <br>Credit to *catsounds_* for [Pink Hearts and Bread](https://www.curseforge.com/minecraft/texture-packs/pink-hearts-and-bread)
