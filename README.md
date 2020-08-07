@@ -67,12 +67,13 @@
 ### Textures
 
  #### GUI
- * New dark loading screen and dark default UI.
- * Hearts have been changed to pink, and the hunger bar has been changed to bread.
- * Detail has also been added to the armor bar, and the absorption bar has been made shinier.
+ New dark loading screen and dark default UI.
+ 
+ Hearts have been changed to pink, and the hunger bar has been changed to bread.
+ <br>Detail has also been added to the armor bar, and the absorption bar has been made shinier.
 
  #### In-game
- * New diamond-infused netherite tools and armor.
+ New diamond-infused netherite tools and armor.
 
 ### Credits
  Netherite tools and armor "inspired" by [Ph1LzA](https://www.youtube.com/Ph1LzA)
