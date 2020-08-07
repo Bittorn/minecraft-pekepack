@@ -73,11 +73,11 @@
 
  Hearts have been changed to pink, and the hunger bar has been changed to bread.
  <br>Detail has also been added to the armor bar, and the absorption bar has been made shinier.
- ![Survival GUI changes](https://media.forgecdn.net/attachments/303/775/showcase.png)
+ <img src="https://media.forgecdn.net/attachments/303/775/showcase.png">
 
  #### In-game
  New diamond-infused netherite tools and armor.
- ![Netherite tools and armor](https://preview.redd.it/b11offqsoed51.png?width=1081&format=png&auto=webp&s=cca499c4562c5af874dd611dd23d32486c3a9185)
+ <img src="https://preview.redd.it/b11offqsoed51.png?width=1081&format=png&auto=webp&s=cca499c4562c5af874dd611dd23d32486c3a9185">
 
 ### Credits
  Netherite tools and armor "inspired" by [Ph1LzA](https://www.youtube.com/Ph1LzA)
